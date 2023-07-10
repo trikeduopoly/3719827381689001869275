@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "197184818979",
+    "project_id": "fendi-pinjol-tanpa-ktp",
+    "storage_bucket": "fendi-pinjol-tanpa-ktp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197184818979:android:643b61d9b58018d3214696",
+        "android_client_info": {
+          "package_name": "com.pinjoltanpaktp.verifikasiwajahpinjolbenji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197184818979-06okb3dfuqqdqs1kgmt2rg8obqrtn1fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTsG3SUec_MOYVEObm98NFNhfs3g68_a8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197184818979-06okb3dfuqqdqs1kgmt2rg8obqrtn1fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
